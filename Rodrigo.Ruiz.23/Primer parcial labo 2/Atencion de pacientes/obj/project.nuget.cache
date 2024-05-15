@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WVIJVTmmHvJ6b7u6NqCE32YWvrb5U2XKz02hIC441xktv8O1JSWKKDejLIR6/D0WdM5zj93c8TQn5Kb69o61lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RODRIGO\\Desktop\\primer parcial progra 2\\Primer parcial labo 2\\Atencion de pacientes\\Atencion de pacientes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

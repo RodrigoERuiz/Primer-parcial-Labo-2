@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ly4mKJiH97POK49AIVUJ630V12DRiatEieNlO6u+YNfH1wF5ch9ObaM8/R/mF2GfhHsmVajLmkXwxFL2q9cZsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RODRIGO\\Desktop\\primer parcial progra 2\\Primer parcial labo 2\\Biblioteca de clases\\Biblioteca de clases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
